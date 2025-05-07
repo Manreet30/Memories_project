@@ -1,6 +1,6 @@
 A full-stack MERN (MongoDB, Express, React, Node.js) application that allows users to create, view, edit, like, and delete photo memories. This project is deployed on Render for both frontend and backend.
 
-LINK : https://memories-project-frontend-0fv2.onrender.com/
+LINK T0 APP : https://memories-project-frontend-0fv2.onrender.com/
 
 
 ## 🚀 Features
