@@ -2,7 +2,7 @@ A full-stack MERN (MongoDB, Express, React, Node.js) application that allows use
 
 LINK T0 APP : https://memories-project-frontend-0fv2.onrender.com/
 
-
+This is a how the Memories App looks like: ![App Screenshot](./assets/screenshot.png)
 ## 🚀 Features
 
 - Post and display photo memories
